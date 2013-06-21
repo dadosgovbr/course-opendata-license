@@ -11,6 +11,13 @@ governamentais abertos.
 
 ## Licenças conforme a categoria do objeto ##
 
+As licenças que permitem a livre reutilização do objeto podem ser separadas
+quanto à sua natureza específica, em três categorias: software, conteúdo e
+dados. Essa separação também se evidencia por uma ordem cronológica, em que
+cada uma foi elaborada em um momento que se evidenciou a necessidade pelo
+fato das licenças anteriores não atenderem a todas as especificidades
+necessárias.
+
 ### Software ###
 
 A liberdade de uso, cópia e reutilização tem as suas origens no movimento de
