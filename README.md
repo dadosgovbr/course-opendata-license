@@ -13,7 +13,15 @@ governamentais abertos.
 
 ### Software ###
 
-A liberdade de uso, cópia e reutilização tem as suas origens no movimento de software livre. As comunidades de desenvolvimento de software, como forma de se livrar das restrições impostas por legislações de propriedade intelectual em todo o mundo, criaram licenças de software que explicitamente permitiam o uso, o compartilhamento, o estudo e a modificação dos códigos-fonte. Uma das mais conhecidas é a [General Public License](http://www.gnu.org/licenses/gpl.html) (GPL), mantida pela [Free Software Foundation](http://www.fsf.org/), a qual também mantém uma série de [critérios de avaliação para que uma licença de software seja considerada "livre"](http://www.gnu.org/philosophy/free-sw.html).
+A liberdade de uso, cópia e reutilização tem as suas origens no movimento de
+software livre. As comunidades de desenvolvimento de software, como forma de se
+livrar das restrições impostas por legislações de propriedade intelectual em
+todo o mundo, criaram licenças de software que explicitamente permitiam o uso,
+o compartilhamento, o estudo e a modificação dos códigos-fonte. Uma das mais
+conhecidas é a [General Public License](http://www.gnu.org/licenses/gpl.html)
+(GPL), mantida pela [Free Software Foundation](http://www.fsf.org/), a qual
+também mantém uma série de [critérios de avaliação para que uma licença de
+software seja considerada "livre"](http://www.gnu.org/philosophy/free-sw.html).
 
 ### Conteúdo ###
 
@@ -30,4 +38,6 @@ Por fim, quando surgiu o movimento de dados abertos, muito se discutiu sobre as 
 * _[Database Content License](http://opendatacommons.org/licenses/dbcl/)_ (DbCL): mesmas exigências que a ODbL, mas aplicável ao conteúdo dos bancos de dados - os dados em si;
 * _[Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/)_: aplicável aos dados e a bancos de dados, mas com exigência apenas de atribuição de autoria;
 * _[Public Domain Dedication and License](http://opendatacommons.org/licenses/pddl/)_ (PDDL): aplicável aos dados e a bancos de dados, mas renuncia a todos os direitos (coloca-os em domínio público).
+
+Para ilustrar a questão da inadequação aos dados abertos das licenças de conteúdo livre, há o caso do projeto _[Open Street Map](http://openstreetmap.org)_. Trata-se de uma plataforma colaborativa onde as pessoas criam mapas, registram vias, pontos de interesse, etc., ao visitar essas localidades munidos de um equipamento de georreferenciamento (GPS). No início, o projeto utilizou a licença _[Creative Commons Attribution Share-alike](http://creativecommons.org/licenses/by-sa/2.0/)_, tendo produzido grande quantidade de dados usando essa licença. Em um determinado momento, verificou-se a [necessidade de que a licença usada no projeto fosse alterada para uma que fosse específica para bancos de dados](http://strata.oreilly.com/2011/06/openstreetmap-creative-commons-open-database-license.html). Os administradores da comunidade precisaram iniciar um lento processo de contatar cada um dos autores que colaboraram no projeto, explicar os motivos do plano de relicenciamento e solicitar que relicenciassem as suas contribuições sob a nova licença padrão do projeto, a ODbL.
 
