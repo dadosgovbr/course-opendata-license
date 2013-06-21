@@ -13,6 +13,7 @@ governamentais abertos.
 
 ### Software ###
 
+A liberdade de uso, cópia e reutilização tem as suas origens no movimento de software livre. As comunidades de desenvolvimento de software, como forma de se livrar das restrições impostas por legislações de propriedade intelectual em todo o mundo, criaram licenças de software que explicitamente permitiam o uso, o compartilhamento, o estudo e a modificação dos códigos-fonte. Uma das mais conhecidas é a [General Public License](http://www.gnu.org/licenses/gpl.html) (GPL), mantida pela [Free Software Foundation](http://www.fsf.org/), a qual também mantém uma série de [critérios de avaliação para que uma licença de software seja considerada "livre"](http://www.gnu.org/philosophy/free-sw.html).
 
 ### Conteúdo ###
 
