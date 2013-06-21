@@ -100,6 +100,7 @@ específica para dados abertos, ela não é unânime. Como será visto adiante,
 alguns países aplicam as licenças ''Creative Commons'' aos dados abertos por
 serem, na sua visão, suficientes e adequadas.
 
+
 ## Licenças de dados abertos em alguns países ##
 
 Embora esta não seja uma lista exaustiva, pela dificuldade em se fazer um
@@ -243,10 +244,51 @@ indique endosso ou status oficial, por parte do governo, do seu uso da
 informação. Além disso, não ludibriar terceiros ou distorcer a informação ou a
 sua fonte.
 
-#### Uruguai ###
+### Uruguai ###
 
 O portal de dados governamentais abertos do Uruguai
 ([catalogodatos.gub.uy](https://catalogodatos.gub.uy)) tem, em seus conjuntos
 de dados, a menção a uma _"Licencia de Datos Abiertos de Uruguay"_. Contudo,
 não é fornecido link para o conteúdo da licença e não foi possível localizá-la.
+
+
+## Interoperabilidade legal ##
+
+São comuns e conhecidas as dificuldades de interoperabilidade técnica entre
+sistemas de informação. Em dados abertos, isso geralmente implica na
+necessidade do utilizador dos dados realizar conversões de formato, de
+tipos de dados, de unidades de medida, de sistemas de coordenadas,
+reconciliação de entidades, equivalência de atributos, etc. Todavia, as
+dificuldades de interoperabilidade técnica têm solução, embora ela possa
+variar em graus de dificuldade conforme o caso.
+
+Por outro lado, a interoperabilidade legal é um problema mais grave, pois
+não tem solução de forma independente da ação de cada produtor dos dados que se
+deseja utilizar. Essencialmente, a solução seria solicitar a cada um deles que
+relicencie os dados sob outra licença que seja compatível com as demais - algo
+que geralmente é inviável ou, no mínimo, bastante demorado.
+
+Uma das atividades mais comuns entre os utilizadores de daods abertos é
+realizar cruzamentos de dados de duas ou mais fontes diversas. Ocorre que uma
+condição necessária para isso é que as licenças associadas a cada uma das
+fontes de dados sejam compatíveis entre si.
+
+As considerações sobre a compatibilidade entre licenças são importantes em
+diversas hipóteses de cruzamentos de dados, consideradas as suas diversas
+origens:
+
+* comparar dados abertos de diferentes países
+* cruzar dados abertos de vários estados de um mesmo país, ou de estados com
+  dados da esfera federal
+* comparar dados que existem em órgãos públicos que pertencem a poderes
+  diferentes do Estado (por exemplo, dados orçamentários)
+
+Por isso, ao se definir uma licença padrão para dados abertos no setor público,
+é essencial que se pondere sobre a sua compatibilidade com as licenças de
+dados abertos utilizadas por todo o setor público, de modo a maximizá-la. A
+prática que tem sido observada por muitos países de se criar uma nova licença
+específica para aquela esfera ou poder no setor público, de forma isolada,
+tende a prejudicar a compatibilidade legal com os demais entes do setor
+público, como ilustrada no caso do Canadá.
+
 
