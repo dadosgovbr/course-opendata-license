@@ -95,3 +95,134 @@ contatar cada um dos autores que colaboraram no projeto, explicar os motivos do
 plano de relicenciamento e solicitar que relicenciassem as suas contribuições
 sob a nova licença padrão do projeto, a ODbL.
 
+Apesar de esta ser a visão predominante sobre a necessidade de licença
+específica para dados abertos, ela não é unânime. Como será visto adiante,
+alguns países aplicam as licenças ''Creative Commons'' aos dados abertos por
+serem, na sua visão, suficientes e adequadas.
+
+## Licenças de dados abertos em alguns países ##
+
+Embora esta não seja uma lista exaustiva, pela dificuldade em se fazer um
+estudo de ampla abrangência, seguem os comportamentos observados em alguns
+países quanto à questão do licenciamento de dados.
+
+### Alemanha ###
+
+O [estudo sobre dados governamentais
+abertos](http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf;jsessionid=1E610723D01195D670CC8399BECBA4A3.2_cid295?__blob=publicationFile)
+encomendado pelo governo federal alemão ao Instituto Fraunhoffer inclui um
+capítulo sobre licenças (págs. 246 a 276), o qual além de avaliar a situação em
+alguns outros países europeus, recomenda a criação de uma nova licença para os
+dados, específica para o governo alemão. A licença desenvolvida foi criticada
+por ativistas dos dados abertos por não satisfazer a todas as exigências da
+_[Open Definition](http://opendefinition.org/okd/portugues-brasileiro)_, uma
+vez que não permite a utilização comercial dos dados.
+
+### Austrália ###
+
+O governo australiano, de acordo com as leis de seu país, entendeu ser
+suficiente e adequado o uso da licença _Creative Commons_ para os dados que
+publica.
+
+### Canadá ###
+
+O portal canadense de dados governamentais abertos
+([data.gc.ca](http://data.gc.ca)) pretende utilizar uma licença chamada
+_[Open Government Licence
+Agreement](http://www.data.gc.ca/default.asp?lang=En&n=46D15882-1)_, a qual
+colocou em consulta pública. A _Creative Commons_ do Canadá participou da
+consulta pública e, embora comemore a melhoria em relação aos termos de
+licenciamento anterior, [criticou basicamente três
+pontos](http://creativecommons.ca/en/oglc-consultation): a ambiguidade na
+compatibilidade com as licenças _Creative Commons_; potenciais barreiras nos
+mecanismos das cláusulas que vedam a sugestão de status oficial de dados
+redistribuídos; e a tentativa de licenciar um direito de banco de dados, o que,
+segundo eles, não existe na legislação canadense.
+
+Outro problema apontado pela Creative Commons é que cada esfera de governo
+(federal, estadual e municipal) no Canadá tem licenças para dados diferentes e
+mutuamente incompatíveis, o que impede o cruzamento de dados de diferentes
+fontes.
+
+### Chile ###
+
+Os dados publicados no portal [datos.gob.cl](http://datos.gob.cl) usam a
+licença [Creative Commons Attribution 3.0
+(Chile)](http://creativecommons.org/licenses/by/3.0/cl/).
+
+### Espanha ###
+
+A Espanha não tem uma licença específica para dados governamentais abertos. Em
+vez disso, o portal espanhol de dados abertos,
+[datos.gob.es](http://datos.gob.es), tem termos de uso (
+_Aviso legal datos.gob.es_ ) que especificam as permissões de reutilização,
+inclusive para fins comerciais.
+
+### E.U.A. ###
+
+Pela Constituição dos Estados Unidos da América, [todo o conteúdo, dados ou
+informações produzidos pelo governo são considerados de domínio
+público](http://www.law.cornell.edu/uscode/text/17/105). Portanto, já estão
+garantidas todas as liberdades fundamentais para dados abertos.
+
+Este talvez seja o melhor exemplo em relação a licenciamento de dados abertos
+no mundo, tanto por estar disposto na Constituição do país de forma
+obrigatória, quanto especificar que o objeto está em domínio público, que é o
+modelo mais liberal possível.
+
+### França ###
+
+A França utiliza, para os dados disponibilizados em seu portal
+[data.gouv.fr](http://data.gouv.fr), a [Licence
+Ouverte](http://www.data.gouv.fr/Licence-Ouverte-Open-Licence) (licença
+aberta). As permissões da _Open Definition_ (usar, reutilizar, copiar,
+modificar, uso comercial) são garantidas, mas ela também inclui as usuais
+cláusulas que vedam a apresentação de status oficial aos dados redistribuídos.
+É mencionado que a atribuição de autoria pode ser feita por meio de
+_hyperlinks_. A licença afirma explicitamente ser compatível com a _Open
+Government Licence_ do Reino Unido, com a _Creative Commons Attribution 2.0_
+(CC-BY) e com a _Open Data Commons Attribution_ (ODC-BY) da _Open Knowledge
+Foundation_.
+
+### Noruega ###
+
+A Noruega possui uma licença própria para os dados governamentais abertos, a
+_[Norsk lisens for offentlige data](http://data.norge.no/nlod/no)_ (NLOD). Ela
+permite as liberdades de uso, reúso, modificação e cópia, inclusive para fins
+comerciais.
+
+Algumas restrições adicionais são a isenção de responsabilidade pela qualidade
+dos dados, a atribuição de autoria, desde que não passe a impressão de que o
+governo endossa a sua forma de uso dos dados e o provimento de link para a
+licença. Essas restrições são semelhantes às da _Open Government Licence_ do
+Reino Unido.
+
+### Reino Unido ###
+
+Pela lei britânica, todo conteúdo produzido pelo governo daquele país pertence
+à coroa ( _[Crown
+Copyright](http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm)_
+). Assim, quando a necessidade de abertura de dados se tornou uma política
+oficial, o governo britânico encomendou um estudo ao _National Archives_, o
+qual culminou no desenvolvimento e
+[estabelecimento](http://data.gov.uk/blog/new-open-government-license) da
+[Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/)
+como licença padrão para os dados publicados pelo governo britânico. Essa
+licença [garante as liberdades de uso e
+reúso](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm)
+preconizadas pela _[Open
+Definition](http://opendefinition.org/okd/portugues-brasileiro)_, qualificando
+os dados publicados como dados abertos.
+
+As restrições aplicadas são a atribuição de autoria, mas de uma forma que não
+indique endosso ou status oficial, por parte do governo, do seu uso da
+informação. Além disso, não ludibriar terceiros ou distorcer a informação ou a
+sua fonte.
+
+#### Uruguai ###
+
+O portal de dados governamentais abertos do Uruguai
+([catalogodatos.gub.uy](https://catalogodatos.gub.uy)) tem, em seus conjuntos
+de dados, a menção a uma _"Licencia de Datos Abiertos de Uruguay"_. Contudo,
+não é fornecido link para o conteúdo da licença e não foi possível localizá-la.
+
