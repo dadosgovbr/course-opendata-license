@@ -121,7 +121,22 @@ vez que não permite a utilização comercial dos dados.
 
 ### Austrália ###
 
-O governo australiano, de acordo com as leis de seu país, entendeu ser suficiente e adequado o uso da licença Creative Commons para os dados que publica. A licença utilizada nos dados do portal [data.gov.au](http://data.gov.au) é a _[Creative Commons - Attribution (CC-BY 2.5 Australia)](http://creativecommons.org/licenses/by/2.5/au/)_.
+O governo australiano, de acordo com as leis de seu país, [entendeu ser
+adequado o uso das licenças _Creative
+Commons_](http://eprints.qut.edu.au/38364/) para os dados que publica.
+Contudo, esse uso é discricionário e não obrigatório. Além disso, não há uma
+licença padrão para dados abertos no país, sendo o uso da _Creative Commons_
+apenas uma das opções oferecidas no modelo [Australian Governments Open
+Access and Licensing Framework (AUSGOAL)](http://www.ausgoal.gov.au/). No
+portal [data.gov.au](http://data.gov.au) podemos observar exemplos de
+conjuntos de dados publicados tanto em várias versões das licenças _Creative
+Commons_ ([CC-BY 2.5
+Australia](http://creativecommons.org/licenses/by/2.5/au/),
+[CC-BY 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/deed.en))
+quanto em licenças customizadas pelo órgão que os publica e que não são abertas
+(ex.: [Standard NSW Government
+Terms](http://www.fire.nsw.gov.au/page.php?id=467), que não permite o uso
+comercial e não está em conformidade com a _Open Definition_).
 
 ### Brasil ###
 
