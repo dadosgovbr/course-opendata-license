@@ -9,4 +9,15 @@ juntado pelo governo brasileiro, no âmbito da Infraestrurua Nacional de
 Dados Abertos (INDA) para viabilizar um estudo sobre licenças de dados
 governamentais abertos.
 
+## Licenças conforme a categoria do objeto ##
+
+### Software ###
+
+
+### Conteúdo ###
+
+
+### Dados ###
+
+
 
