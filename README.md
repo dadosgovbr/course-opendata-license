@@ -121,9 +121,7 @@ vez que não permite a utilização comercial dos dados.
 
 ### Austrália ###
 
-O governo australiano, de acordo com as leis de seu país, entendeu ser
-suficiente e adequado o uso da licença _Creative Commons_ para os dados que
-publica.
+O governo australiano, de acordo com as leis de seu país, entendeu ser suficiente e adequado o uso da licença Creative Commons para os dados que publica. A licença utilizada nos dados do portal [data.gov.au](http://data.gov.au) é a _[Creative Commons - Attribution (CC-BY 2.5 Australia)](http://creativecommons.org/licenses/by/2.5/au/)_.
 
 ### Brasil ###
 
@@ -229,7 +227,7 @@ Licensing
 (NZGOAL)](http://ict.govt.nz/guidance-and-resources/information-and-data/nzgoal).
 Ele essencialmente estabelece que os conteúdos publicados pelo governo
 neozelandês, incluindo os dados, deverão ser obrigatoriamente licenciados sob a
-licença ''Creative Commons Attribution'' (CC-BY) e, na máxima extensão
+licença _Creative Commons Attribution_ (CC-BY) e, na máxima extensão
 praticável, publicados na internet.
 
 ### Portugal ###
