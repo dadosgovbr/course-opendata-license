@@ -222,6 +222,23 @@ governo endossa a sua forma de uso dos dados e o provimento de link para a
 licença. Essas restrições são semelhantes às da _Open Government Licence_ do
 Reino Unido.
 
+### Nova Zelândia ###
+
+A Nova Zelândia estabeleceu o modelo [New Zealand Government Open Access and
+Licensing
+(NZGOAL)](http://ict.govt.nz/guidance-and-resources/information-and-data/nzgoal).
+Ele essencialmente estabelece que os conteúdos publicados pelo governo
+neozelandês, incluindo os dados, deverão ser obrigatoriamente licenciados sob a
+licença ''Creative Commons Attribution'' (CC-BY) e, na máxima extensão
+praticável, publicados na internet.
+
+### Portugal ###
+
+O catálogo de dados do portal [^http://www.dados.gov.pt|dados.gov.pt] menciona
+a existência de uma "Licença de utilização de dados do portal Dados.gov"
+(inclusive consta uma observação "[fazer link]"), porém esse documento não pôde
+ser encontrado.
+
 ### Reino Unido ###
 
 Pela lei britânica, todo conteúdo produzido pelo governo daquele país pertence
