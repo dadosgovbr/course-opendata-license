@@ -124,6 +124,30 @@ O governo australiano, de acordo com as leis de seu país, entendeu ser
 suficiente e adequado o uso da licença _Creative Commons_ para os dados que
 publica.
 
+### Brasil ###
+
+No Brasil não há licença padrão definida para a publicação de dados
+governamentais abertos. O governo federal, no âmbito da Infraestrutura
+Nacional de Dados Abertos (INDA), pretende realizar um estudo sobre os
+aspectos jurídicos, econômicos e outros relacionados à livre reutilização dos
+dados, de forma a determinar se uma licença é necessária e, caso seja,
+recomendar a adoção de uma licença existente ou o desenvolvimento de uma nova.
+
+Considerando a legislação brasileira, a [Lei de Direitos
+Autorais](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1998-02-19;9610)
+prevê explicitamente a proteção a bancos de dados. Por outro lado, a [Lei de
+Acesso à
+Informação](http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2011-11-18;12527)
+imputa ao Estado o dever de proporcionar o acesso, inclusive na internet, a
+toda a informação que produz ou detém que não tenha um motivo específico para
+ser considerada sigilosa. A interação destas e outras leis relacionadas será
+tratada no estudo planejado.
+
+Na prática, até o momento de elaboração deste texto, a maior parte dos órgãos
+públicos brasileiros não tem especificado qualquer licença ao publicar dados
+na internet. As poucas exceções têm utilizado, por enquanto, as licenças ODbL e
+DbCL.
+
 ### Canadá ###
 
 O portal canadense de dados governamentais abertos
