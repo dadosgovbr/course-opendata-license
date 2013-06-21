@@ -291,4 +291,13 @@ específica para aquela esfera ou poder no setor público, de forma isolada,
 tende a prejudicar a compatibilidade legal com os demais entes do setor
 público, como ilustrada no caso do Canadá.
 
+Mais informações sobre a interoperabilidade de licenças para dados abertos
+podem ser obtidas nas seguintes apresentações:
+
+* [Linked Heritage - Legal
+  Interoperability](http://www.slideshare.net/Federico_Morando/linked-heritage-legal-interoperability)
+  por Federico Morando
+* [LAPSI: legal interoperability
+  updated](http://www.slideshare.net/Federico_Morando/lapsi-legal-interoperability)
+  por Federico Morando
 
