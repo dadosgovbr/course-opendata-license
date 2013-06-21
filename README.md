@@ -234,7 +234,7 @@ praticável, publicados na internet.
 
 ### Portugal ###
 
-O catálogo de dados do portal [^http://www.dados.gov.pt|dados.gov.pt] menciona
+O catálogo de dados do portal [dados.gov.pt](http://www.dados.gov.pt) menciona
 a existência de uma "Licença de utilização de dados do portal Dados.gov"
 (inclusive consta uma observação "[fazer link]"), porém esse documento não pôde
 ser encontrado.
