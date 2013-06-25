@@ -5,7 +5,7 @@ relacionadas ao licenciamento de direitos associados a dados abertos. Serão
 mostradas, também, algumas experiências internacionais sobre o assunto. Ele
 se baseia parcialmente no
 [conteúdo](http://wiki.gtinda.ibge.gov.br/Produto-GT1-Levantamento-Juridico-Licenciamento-Dados-Abertos.ashx)
-reunido pelo governo brasileiro, no âmbito da Infraestrurua Nacional de
+reunido pelo governo brasileiro, no âmbito da Infraestrutura Nacional de
 Dados Abertos (INDA) para viabilizar um estudo sobre licenças de dados
 governamentais abertos.
 
